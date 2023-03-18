@@ -22,6 +22,7 @@ ul {
 .links {
     display:flex;
     gap:20px;
+    opacity: 0.8;
 }
 .image {
     width:450px;
@@ -125,6 +126,7 @@ span {
     align-items:center;
     background-color:#1f2937;
     color:white;
+    height:80px;
 }
 
 
